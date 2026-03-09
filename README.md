@@ -18,7 +18,7 @@ Projeto de portfólio DevOps criado para demonstrar a construção, validação,
   <a href="https://github.com/diegosantos-ai/devopsjr-api-cicd/actions">
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-Workflow-24292f?style=for-the-badge&logo=githubactions&logoColor=white">
   </a>
-  <a href="COLE_AQUI_O_LINK_DO_DOCKER_HUB">
+  <a href="https://hub.docker.com/repository/docker/santosdiegoj86/devopsjr-api-cicd/general">
     <img alt="Docker Hub" src="https://img.shields.io/badge/Docker_Hub-Image-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
   </a>
 </p>
